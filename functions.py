@@ -1,6 +1,8 @@
 def mean(this_list):
     '''
     Takes a list of numbers and returns the mean
+    
+    some edits made directly on github
     '''
     
     if len(this_list) <= 0:
