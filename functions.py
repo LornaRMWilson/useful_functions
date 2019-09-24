@@ -4,7 +4,7 @@ def mean(list):
     '''
     
     if len(this_list) <= 0:
-        return "You passed and empty list"
+        return "You passed add empty list"
         
         
         
