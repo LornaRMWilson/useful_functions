@@ -6,8 +6,7 @@ def mean(this_list):
     if len(this_list) <= 0:
         return "You passed an empty list"
         
-     
-    make a mess oh dear
+        
         
     total=0
     for item in this_list:
